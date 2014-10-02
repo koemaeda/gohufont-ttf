@@ -49,9 +49,8 @@ from PIL import Image
 #
 imPath = sys.argv.pop(-1)
 imSrc = Image.open(imPath, 'r')
-imBW = imSrc.convert('P', palette=Image.ADAPTIVE, colors=2)
-imBW.putpalette([255,255,255, 0,0,0]) # white and black
-imBW = imBW.convert('1')
+imSrc.putpalette( [255,255,255, 0,0,0] if len(imSrc.getcolors()) > 1 else [0,0,0] )
+imBW = imSrc.convert('1') # black & white
 
 #
 # Upscale it
