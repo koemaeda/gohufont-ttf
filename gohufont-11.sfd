@@ -1,12 +1,12 @@
 SplineFontDB: 3.0
-FontName: GohuFont
+FontName: GohuFont-11
 FullName: GohuFont
 FamilyName: GohuFont
 Weight: Medium
 Copyright: Copyright by Hugo Chargois - Licensed under the WTFPL - Converted by Guilherme Maeda
 UComments: "2014-10-1: Created." 
 Version: 001.000
-DefaultBaseFilename: gohufont
+DefaultBaseFilename: gohufont-11
 ItalicAngle: 0
 UnderlinePosition: 2
 UnderlineWidth: 102
@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1412204861
-ModificationTime: 1412218538
+ModificationTime: 1421850301
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -10870,7 +10870,7 @@ AVERAGE_WIDTH 18 60
 CHARSET_REGISTRY 16 "ISO8859"
 CHARSET_ENCODING 16 "1"
 FONTNAME_REGISTRY 16 ""
-FONT_NAME 16 "GohuFont"
+FONT_NAME 16 "GohuFont-11"
 FACE_NAME 16 "GohuFont"
 FONT_VERSION 16 "003.000"
 FONT_ASCENT 18 9
@@ -10887,8 +10887,6 @@ AVG_LOWERCASE_WIDTH 18 60
 AVG_UPPERCASE_WIDTH 16 "60"
 BDFEndProperties
 Resolution: 100
-BDFChar: 0 32 6 0 -1 0 -1
-
 BDFChar: 1 33 6 2 2 0 7
 J:N0#J:IWM
 BDFChar: 2 34 6 1 3 5 7
@@ -11077,8 +11075,6 @@ BDFChar: 93 125 6 0 5 -2 8
 ^`XaB+;c4D+<\H"
 BDFChar: 94 126 6 0 4 2 4
 5c>4o
-BDFChar: 95 160 6 0 -1 0 -1
-
 BDFChar: 96 161 6 2 2 0 7
 J,k+MJ:N0#
 BDFChar: 97 162 6 0 4 -1 5
@@ -11269,428 +11265,5 @@ BDFChar: 189 254 6 0 4 -2 6
 J:R-FLktPNJ,fQL
 BDFChar: 190 255 6 0 4 -2 6
 :]Q<-LmVi]Du]k<
-EndBitmapFont
-BitmapFont: 14 192 11 3 1 Gohu
-BDFStartProperties: 36
-COMMENT 0 "Copyright by Hugo Chargois"
-COMMENT 0 "Licensed under the WTFPL"
-FONT 1 "-Gohu-GohuFont-Medium-R-Normal--14-100-100-100-C-80-ISO8859-1"
-SIZE 1 "14 100 100"
-FONTBOUNDINGBOX 1 "8 14 0 -3"
-FOUNDRY 16 "Gohu"
-FAMILY_NAME 16 "GohuFont"
-WEIGHT_NAME 16 "Medium"
-SLANT 16 "R"
-SETWIDTH_NAME 16 "Normal"
-ADD_STYLE_NAME 16 ""
-PIXEL_SIZE 18 14
-POINT_SIZE 18 100
-RESOLUTION_X 19 100
-RESOLUTION_Y 19 100
-SPACING 16 "C"
-AVERAGE_WIDTH 18 80
-CHARSET_REGISTRY 16 "ISO8859"
-CHARSET_ENCODING 16 "1"
-FONTNAME_REGISTRY 16 ""
-FONT_NAME 16 "GohuFont"
-FACE_NAME 16 "GohuFont"
-FONT_VERSION 16 "001.000"
-FONT_ASCENT 18 11
-FONT_DESCENT 18 3
-UNDERLINE_POSITION 18 -1
-UNDERLINE_THICKNESS 18 1
-X_HEIGHT 18 7
-CAP_HEIGHT 18 9
-RAW_ASCENT 18 785
-RAW_DESCENT 18 215
-NORM_SPACE 18 8
-FIGURE_WIDTH 18 8
-AVG_LOWERCASE_WIDTH 18 80
-AVG_UPPERCASE_WIDTH 16 "80"
-_GBDFED_INFO 16 "Edited with gbdfed 1.6."
-BDFEndProperties
-Resolution: 100
-BDFChar: 0 32 8 0 7 -3 10
-zzzz
-BDFChar: 1 33 8 0 7 -3 10
-!"]\Q&.fBa!"]\Az
-BDFChar: 2 34 8 0 7 -3 10
-!$ig8zzz
-BDFChar: 3 35 8 0 7 -3 10
-!%96Dr[92o-n$JDz
-BDFChar: 4 36 8 0 7 -3 10
-&.j5POH=i&&s@VR&-)\1
-BDFChar: 5 37 8 0 7 -3 10
-!!$PoBF#.\+=pDaz
-BDFChar: 6 38 8 0 7 -3 10
-!#Qt,(beQM6ps'9z
-BDFChar: 7 39 8 0 7 -3 10
-!"]\Q&-)\1zz
-BDFChar: 8 40 8 0 7 -3 10
-!!j,Y+@&1W5Th0\#QOi)
-BDFChar: 9 41 8 0 7 -3 10
-!$DgY#Qt85":,8E+92BA
-BDFChar: 10 42 8 0 7 -3 10
-!!!!1P#OD?Oq7Tnz
-BDFChar: 11 43 8 0 7 -3 10
-!!!!1&.ngP&.egAz
-BDFChar: 12 44 8 0 7 -3 10
-zz!&-)<+92BA
-BDFChar: 13 45 8 0 7 -3 10
-z!!%HJzz
-BDFChar: 14 46 8 0 7 -3 10
-zz!&-),z
-BDFChar: 15 47 8 0 7 -3 10
-!WiK-#RCtQ+<Wp7z
-BDFChar: 16 48 8 0 7 -3 10
-!!#,J7S6Qf6:*d7z
-BDFChar: 17 49 8 0 7 -3 10
-!!!9A-qFUL#RC\9z
-BDFChar: 18 50 8 0 7 -3 10
-!!#,J63IQ*+@(AUz
-BDFChar: 19 51 8 0 7 -3 10
-!!#,J!Wj>C!^]!Lz
-BDFChar: 20 52 8 0 7 -3 10
-!!!-1'I6(q"9\i-z
-BDFChar: 21 53 8 0 7 -3 10
-!!%I55^WV7!^]!Lz
-BDFChar: 22 54 8 0 7 -3 10
-!!#,H5^Ymb6:*d7z
-BDFChar: 23 55 8 0 7 -3 10
-!!%HL"9\u9&.fBQz
-BDFChar: 24 56 8 0 7 -3 10
-!!#,J6:*e$6:*d7z
-BDFChar: 25 57 8 0 7 -3 10
-!!#,J6:*j;!X(I_z
-BDFChar: 26 58 8 0 7 -3 10
-z(`35Q!#QOQz
-BDFChar: 27 59 8 0 7 -3 10
-z0JEJ,!&-)<+92BA
-BDFChar: 28 60 8 0 7 -3 10
-!!!!%#S8+D+:ne]z
-BDFChar: 29 61 8 0 7 -3 10
-zIK0?JIK0?Jz
-BDFChar: 30 62 8 0 7 -3 10
-!!!!a+:ne]#S8+Dz
-BDFChar: 31 63 8 0 7 -3 10
-!'ERL!X&c?!"]\Az
-BDFChar: 32 64 8 0 7 -3 10
-!.9BiU8"BZRXfhez
-BDFChar: 33 65 8 0 7 -3 10
-!!#,J6:-,f6:+!=z
-BDFChar: 34 66 8 0 7 -3 10
-!!%C56:-&d6:-&"z
-BDFChar: 35 67 8 0 7 -3 10
-!!#,J5X7S"5XIR5z
-BDFChar: 36 68 8 0 7 -3 10
-!!%736:+"*6:?%uz
-BDFChar: 37 69 8 0 7 -3 10
-!!%I55X9QZ5X9buz
-BDFChar: 38 70 8 0 7 -3 10
-!!%I55X9QZ5X7R7z
-BDFChar: 39 71 8 0 7 -3 10
-!!#,J5X8(26:*d7z
-BDFChar: 40 72 8 0 7 -3 10
-!!#>P6:-,f6:+!=z
-BDFChar: 41 73 8 0 7 -3 10
-!!"ti&.fBa&.gf$z
-BDFChar: 42 74 8 0 7 -3 10
-!!!'%!WiE)6:*d7z
-BDFChar: 43 75 8 0 7 -3 10
-!!#>R85N\j845cEz
-BDFChar: 44 76 8 0 7 -3 10
-!!#8L5X7S"5X9buz
-BDFChar: 45 77 8 0 7 -3 10
-!!%VjWfiNsJqARSz
-BDFChar: 46 78 8 0 7 -3 10
-!!#>p@T$)r8k)8Mz
-BDFChar: 47 79 8 0 7 -3 10
-!!#,J6:+"*6:*d7z
-BDFChar: 48 80 8 0 7 -3 10
-!!%C56:-&b5X7R7z
-BDFChar: 49 81 8 0 7 -3 10
-!!#,J6:+"28jk]Az
-BDFChar: 50 82 8 0 7 -3 10
-!!%C56:-&j6pa3?z
-BDFChar: 51 83 8 0 7 -3 10
-!!#,J5X7F5!^]!Lz
-BDFChar: 52 84 8 0 7 -3 10
-!!*!0&.fBa&.fBQz
-BDFChar: 53 85 8 0 7 -3 10
-!!#>P6:+"*6:*d7z
-BDFChar: 54 86 8 0 7 -3 10
-!!#>P6:)qC,T%?uz
-BDFChar: 55 87 8 0 7 -3 10
-!!%V&P*2!.6psECz
-BDFChar: 56 88 8 0 7 -3 10
-!!#>P,U=3P,XOftz
-BDFChar: 57 89 8 0 7 -3 10
-!!%V&6prF7&.fBQz
-BDFChar: 58 90 8 0 7 -3 10
-!!%HL":,P]5X9buz
-BDFChar: 59 91 8 0 7 -3 10
-!#uO]&.fBa&.fBmz
-BDFChar: 60 92 8 0 7 -3 10
-5X6G7&.f*Q"9\c-z
-BDFChar: 61 93 8 0 7 -3 10
-!&t5i#RC\A#RC\qz
-BDFChar: 62 94 8 0 7 -3 10
-!"^PHzzz
-BDFChar: 63 95 8 0 7 -3 10
-zz!!!$!z
-BDFChar: 64 96 8 0 7 -3 10
-!'hY<zzz
-BDFChar: 65 97 8 0 7 -3 10
-z49@]56:O!9z
-BDFChar: 66 98 8 0 7 -3 10
-!'ie7>[g#d6:-&"z
-BDFChar: 67 99 8 0 7 -3 10
-z4@2:u5XIR5z
-BDFChar: 68 100 8 0 7 -3 10
-!!33'5!hS&6:O!9z
-BDFChar: 69 101 8 0 7 -3 10
-z4@2A`5X7L5z
-BDFChar: 70 102 8 0 7 -3 10
-!$!+(+?Ubh+<Vd,z
-BDFChar: 71 103 8 0 7 -3 10
-z5!hS&6:O!;!^$G_
-BDFChar: 72 104 8 0 7 -3 10
-!'ie7>[g#d6:+!=z
-BDFChar: 73 105 8 0 7 -3 10
-!"]\AE"EQl&.ff]z
-BDFChar: 74 106 8 0 7 -3 10
-!!ii1(^LBQ#RC\A#]KbD
-BDFChar: 75 107 8 0 7 -3 10
-!'ie75X\.^845cEz
-BDFChar: 76 108 8 0 7 -3 10
-!&+rq&.fBa&.f<Oz
-BDFChar: 77 109 8 0 7 -3 10
-zr0!5+P*1t.z
-BDFChar: 78 110 8 0 7 -3 10
-zHpU.d6:+!=z
-BDFChar: 79 111 8 0 7 -3 10
-z4@2A$6:*d7z
-BDFChar: 80 112 8 0 7 -3 10
-z>[g#d6:-&b5X5;L
-BDFChar: 81 113 8 0 7 -3 10
-z5!hS&6:O!;!Wi?%
-BDFChar: 82 114 8 0 7 -3 10
-z>[fr`5X7R7z
-BDFChar: 83 115 8 0 7 -3 10
-z4?u.o!Wm`Lz
-BDFChar: 84 116 8 0 7 -3 10
-!"]\Q4:i&8&.f6Mz
-BDFChar: 85 117 8 0 7 -3 10
-z6:+"*6:O!9z
-BDFChar: 86 118 8 0 7 -3 10
-z6:+!a,T%?uz
-BDFChar: 87 119 8 0 7 -3 10
-zJqB/KW^K5Tz
-BDFChar: 88 120 8 0 7 -3 10
-z6:)q7,XOftz
-BDFChar: 89 121 8 0 7 -3 10
-z6:+"*6:O!;!^$G_
-BDFChar: 90 122 8 0 7 -3 10
-zIKTof+@(AUz
-BDFChar: 91 123 8 0 7 -3 10
-!"KPO&.fE2&.fBa%KHJ/
-BDFChar: 92 124 8 0 7 -3 10
-!"]\Q&.fBa&.fBa&-)\1
-BDFChar: 93 125 8 0 7 -3 10
-!,r2L#RC\@#RC\ADu]k<
-BDFChar: 94 126 8 0 7 -3 10
-z!+M+Mzz
-BDFChar: 95 160 8 0 7 -3 10
-zzzz
-BDFChar: 96 161 8 0 7 -3 10
-!"]\A&.fBa&.fBQz
-BDFChar: 97 162 8 0 7 -3 10
-!!!QAI$0SQOHOu&&-)\1
-BDFChar: 98 163 8 0 7 -3 10
-!#Qt(+F#"O+<k%jz
-BDFChar: 99 164 8 0 7 -3 10
-zJp]sS7!sRdz
-BDFChar: 100 165 8 0 7 -3 10
-!.oej-kLb;Hk6hhz
-BDFChar: 101 166 8 0 7 -3 10
-!"]\Q&.egA&.fBa&-)\1
-BDFChar: 102 167 8 0 7 -3 10
-!'!A30M"T",T$YP2uipY
-BDFChar: 103 168 8 0 7 -3 10
-!$ifizzz
-BDFChar: 104 169 8 0 7 -3 10
-!!#,JRAHURR6j"9z
-BDFChar: 105 170 8 0 7 -3 10
-!&t*D6p(Hszz
-BDFChar: 106 171 8 0 7 -3 10
-z&gU#080efJz
-BDFChar: 107 172 8 0 7 -3 10
-z!.FtN!WW3#z
-BDFChar: 108 173 8 0 7 -3 10
-z!!!!]zz
-BDFChar: 109 174 8 0 7 -3 10
-!!#,J\YZj9V*[9Ez
-BDFChar: 110 175 8 0 7 -3 10
-!.FnJzzz
-BDFChar: 111 176 8 0 7 -3 10
-!#Qt,(]XO9zz
-BDFChar: 112 177 8 0 7 -3 10
-z&.j4#&-.(Xz
-BDFChar: 113 178 8 0 7 -3 10
-!#Qse&3Kpmzz
-BDFChar: 114 179 8 0 7 -3 10
-!&t)u"?6A]zz
-BDFChar: 115 180 8 0 7 -3 10
-#S6t9zzz
-BDFChar: 116 181 8 0 7 -3 10
-z6:+"*6:Q8d5X5;L
-BDFChar: 117 182 8 0 7 -3 10
-!.OM0o($f6&eYfWz
-BDFChar: 118 183 8 0 7 -3 10
-z!!"],zz
-BDFChar: 119 184 8 0 7 -3 10
-zz!!!!1&0LrQ
-BDFChar: 120 185 8 0 7 -3 10
-!"^gq&3'Xizz
-BDFChar: 121 186 8 0 7 -3 10
-!'!A76oY0ozz
-BDFChar: 122 187 8 0 7 -3 10
-zO@UW0,Y4!sz
-BDFChar: 123 188 8 0 7 -3 10
-+CH<9,R=r*7Z&5g!WW3#
-BDFChar: 124 189 8 0 7 -3 10
-+CH<9,R=r(9TfMa*WQ0?
-BDFChar: 125 190 8 0 7 -3 10
-i"09/j9Q;@7Z&5g!WW3#
-BDFChar: 126 191 8 0 7 -3 10
-!!ii1#S8+D5XIR5z
-BDFChar: 127 192 8 0 7 -3 10
-&-tBb6:-,f6:+!=z
-BDFChar: 128 193 8 0 7 -3 10
-#S9*b6:-,f6:+!=z
-BDFChar: 129 194 8 0 7 -3 10
-(aK)D6:+"f6:+!=z
-BDFChar: 130 195 8 0 7 -3 10
-1/%[16:+"f6:+!=z
-BDFChar: 131 196 8 0 7 -3 10
-,U<@P6:+"f6:+!=z
-BDFChar: 132 197 8 0 7 -3 10
-(aKq\6:+"f6:+!=z
-BDFChar: 133 198 8 0 7 -3 10
-!.L#kOSk3%OH?%6z
-BDFChar: 134 199 8 0 7 -3 10
-!'ES55X7S"5XIRE+92BA
-BDFChar: 135 200 8 0 7 -3 10
-&.!_M5X9QZ5X9buz
-BDFChar: 136 201 8 0 7 -3 10
-#S;GM5X9QZ5X9buz
-BDFChar: 137 202 8 0 7 -3 10
-(aK*15X9QZ5X9buz
-BDFChar: 138 203 8 0 7 -3 10
-,U<A=5X9QZ5X9buz
-BDFChar: 139 204 8 0 7 -3 10
-+:nN4&.fBa&.gf$z
-BDFChar: 140 205 8 0 7 -3 10
-#S6tq&.fBa&.gf$z
-BDFChar: 141 206 8 0 7 -3 10
-(aK)@&.fBa&.gf$z
-BDFChar: 142 207 8 0 7 -3 10
-6pq#7&.fBa&.gf$z
-BDFChar: 143 208 8 0 7 -3 10
-!-gmu6LmH06:?%uz
-BDFChar: 144 209 8 0 7 -3 10
-1/%[W@T$)r8k)8Mz
-BDFChar: 145 210 8 0 7 -3 10
-&-tBb6:+"*6:*d7z
-BDFChar: 146 211 8 0 7 -3 10
-#S9*b6:+"*6:*d7z
-BDFChar: 147 212 8 0 7 -3 10
-(aK)D6:+"*6:*d7z
-BDFChar: 148 213 8 0 7 -3 10
-1/%[16:+"*6:*d7z
-BDFChar: 149 214 8 0 7 -3 10
-,U<@P6:+"*6:*d7z
-BDFChar: 150 215 8 0 7 -3 10
-z!(%qJ,XMJ2z
-BDFChar: 151 216 8 0 7 -3 10
-!]i_=8kMuZ@No&Bz
-BDFChar: 152 217 8 0 7 -3 10
-&-tTh6:+"*6:*d7z
-BDFChar: 153 218 8 0 7 -3 10
-#S9<h6:+"*6:*d7z
-BDFChar: 154 219 8 0 7 -3 10
-(aK)J6:+"*6:*d7z
-BDFChar: 155 220 8 0 7 -3 10
-,U<@V6:+"*6:*d7z
-BDFChar: 156 221 8 0 7 -3 10
-#S;T>6prF7&.fBQz
-BDFChar: 157 222 8 0 7 -3 10
-!'ies6:+"*HpBpsz
-BDFChar: 158 223 8 0 7 -3 10
-!'!A78:3`j6=O1"z
-BDFChar: 159 224 8 0 7 -3 10
-!"]D949@]56:O!9z
-BDFChar: 160 225 8 0 7 -3 10
-!!j,949@]56:O!9z
-BDFChar: 161 226 8 0 7 -3 10
-!#Qs]49@]56:O!9z
-BDFChar: 162 227 8 0 7 -3 10
-!&@4J49@]56:O!9z
-BDFChar: 163 228 8 0 7 -3 10
-!$ifi49@]56:O!9z
-BDFChar: 164 229 8 0 7 -3 10
-!#Qsu49@]56:O!9z
-BDFChar: 165 230 8 0 7 -3 10
-zC_Cc[OH=8Yz
-BDFChar: 166 231 8 0 7 -3 10
-z4@2:u5XIRE+92BA
-BDFChar: 167 232 8 0 7 -3 10
-!"]D94@2A`5X7L5z
-BDFChar: 168 233 8 0 7 -3 10
-!!j,94@2A`5X7L5z
-BDFChar: 169 234 8 0 7 -3 10
-!#Qs]4@2A`5X7L5z
-BDFChar: 170 235 8 0 7 -3 10
-!$ifi4@2A`5X7L5z
-BDFChar: 171 236 8 0 7 -3 10
-!$DgQE"EQl&.ff]z
-BDFChar: 172 237 8 0 7 -3 10
-!!j,9E"EQl&.ff]z
-BDFChar: 173 238 8 0 7 -3 10
-!&-qDE"EQl&.ff]z
-BDFChar: 174 239 8 0 7 -3 10
-!(]W\E"EQl&.ff]z
-BDFChar: 175 240 8 0 7 -3 10
-!%8C,4@2A$6:*d7z
-BDFChar: 176 241 8 0 7 -3 10
-!&@4JHpU.d6:+!=z
-BDFChar: 177 242 8 0 7 -3 10
-!"]D94@2A$6:*d7z
-BDFChar: 178 243 8 0 7 -3 10
-!!j,94@2A$6:*d7z
-BDFChar: 179 244 8 0 7 -3 10
-!#Qs]4@2A$6:*d7z
-BDFChar: 180 245 8 0 7 -3 10
-!&@4J4@2A$6:*d7z
-BDFChar: 181 246 8 0 7 -3 10
-!$ifi4@2A$6:*d7z
-BDFChar: 182 247 8 0 7 -3 10
-z&.ehh!"]\Az
-BDFChar: 183 248 8 0 7 -3 10
-!!!!#4@Vq@@R@^-z
-BDFChar: 184 249 8 0 7 -3 10
-!"]D96:+"*6:O!9z
-BDFChar: 185 250 8 0 7 -3 10
-!!j,96:+"*6:O!9z
-BDFChar: 186 251 8 0 7 -3 10
-!#Qs]6:+"*6:O!9z
-BDFChar: 187 252 8 0 7 -3 10
-!$ifi6:+"*6:O!9z
-BDFChar: 188 253 8 0 7 -3 10
-!!j,96:+"*6:O!;!^$G_
-BDFChar: 189 254 8 0 7 -3 10
-!'ie7HpU.d6:-&b5QCca
-BDFChar: 190 255 8 0 7 -3 10
-!$ifi6:+"*6:O!;!^$G_
 EndBitmapFont
 EndSplineFont
